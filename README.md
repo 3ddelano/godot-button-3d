@@ -3,6 +3,8 @@ Easy interactive button for 3d games.
 <br>
 <img alt="gdscript" src="https://img.shields.io/badge/-GODOT-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
 
+Video: https://youtu.be/zwh1A__4fCY
+
 # Features
 - Connects to your game via signals
 - Plays audio when pressed
